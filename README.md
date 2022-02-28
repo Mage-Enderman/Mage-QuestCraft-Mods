@@ -2,6 +2,7 @@
 This is just a page with all the mods that Mage uses with QuestCraft as a base
 
 including
+https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
 https://www.curseforge.com/minecraft/mc-mods/replanter
 https://www.curseforge.com/minecraft/mc-mods/smooth-boot
 https://www.curseforge.com/minecraft/mc-mods/sound-physics-fabric
