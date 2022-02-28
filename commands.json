@@ -1,0 +1,38 @@
+[
+  {
+    "name":"Home",
+    "command":"/home"
+  },
+  {
+    "name":"Set Home",
+    "command":"/sethome"
+  },
+  {
+    "name":"Spawn",
+    "command":"/spawn"
+  },
+  {
+    "name":"Creative",
+    "command":"/gamemode creative"
+  },
+  {
+    "name":"Survival",
+    "command":"/gamemode survival"
+  },
+  {
+    "name":"Day time!",
+    "command":"/time set day"
+  },
+  {
+    "name":"Heal Everyone!",
+    "command":"/effect give @a minecraft:instant_health 5 2"
+  },
+  {
+    "name":"Keep Inventory",
+    "command":"/gamerule keepInventory true"
+  },
+  {
+    "name":"SpecChunks",
+    "command":"/gamerule spectatorsGenerateChunks true"
+  }
+]
