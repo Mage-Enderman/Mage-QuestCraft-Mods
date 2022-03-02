@@ -44,3 +44,4 @@ https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
 https://www.curseforge.com/minecraft/mc-mods/particle-rain
 https://www.curseforge.com/minecraft/mc-mods/pling
 https://www.curseforge.com/minecraft/mc-mods/puzzle
+https://www.curseforge.com/minecraft/mc-mods/transparent-fabric
