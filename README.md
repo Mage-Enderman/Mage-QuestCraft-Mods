@@ -1,6 +1,11 @@
 # Mage-QuestCraft-Mods
 This is just a page with all the mods that Mage uses with QuestCraft as a base
 
+For settings I use 30% render res, biome mix 3x3, render distance 4-8, entityculling 50%, entity shadows off, ram around 3000mb, mipmaps off, clouds off, Fancy,
+Resource packs: Fancy Skies, Dark GUI, True Craft, True Craft No Bushy Leaves,
+Though Pixel Reality is also very nice
+Small Quirk with mods: I use Interactica and BetterItemDrops so I just turn off FancyItemRendering in Interactica to get the best of both
+
 including
 https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
 https://www.curseforge.com/minecraft/mc-mods/replanter
