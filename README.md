@@ -6,7 +6,7 @@ Resource packs: Fancy Skies, Dark GUI, True Craft, True Craft No Bushy Leaves,
 Though Pixel Reality is also very nice
 Small Quirk with mods: I use Interactica and BetterItemDrops so I just turn off FancyItemRendering in Interactica to get the best of both
 
-including
+Most likely including mods found here (Some might not actually be in the mods folder anymore as they no longer work or I found "better" mods for the same purpose)
 https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
 https://www.curseforge.com/minecraft/mc-mods/replanter
 https://www.curseforge.com/minecraft/mc-mods/smooth-boot
