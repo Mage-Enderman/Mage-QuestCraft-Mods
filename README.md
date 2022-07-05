@@ -1,10 +1,15 @@
 # Mage-QuestCraft-Mods
 This is just a page with all the mods that Mage uses with QuestCraft as a base
 
-For settings I use 30% render res, biome mix 3x3, render distance 4-8, entityculling 50%, entity shadows off, ram around 3000mb, mipmaps off, clouds off, Fancy,
+to be specifc right now these are for QuestCraft version 1.3.0 running Minecraft 1.18.2 with fabric-loader-0.13.3
+
+For settings I use 20% render res, biome mix 3x3, render distance 4-8 (more so 6-7), entityculling 70%, 
+entity shadows off, ram around 3000mb, mipmaps off, clouds off, Fancy,
 Resource packs: Fancy Skies, Dark GUI, True Craft, True Craft No Bushy Leaves,
 Though Pixel Reality is also very nice
-Small Quirk with mods: I use Interactica and BetterItemDrops so I just turn off FancyItemRendering in Interactica to get the best of both
+Small Quirk with mods*: I use Interactica and BetterItemDrops so I just turn off FancyItemRendering in Interactica to get the best of both
+
+*No longer applies as I now don't use those 2
 
 Most likely including mods found here (Some might not actually be in the mods folder anymore as they no longer work or I found "better" mods for the same purpose)
 https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
