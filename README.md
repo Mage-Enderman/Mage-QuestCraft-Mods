@@ -11,6 +11,10 @@ Small Quirk with mods*: I use Interactica and BetterItemDrops so I just turn off
 
 *No longer applies as I now don't use those 2
 
+Incase you'd find it useful
+here's this
+https://docs.google.com/spreadsheets/d/16SopyOPDz3OrL4qcWwMPzL9s_5Uhl5Q-aRIePY6ztSA/edit#gid=0
+
 Most likely including mods found here (Some might not actually be in the mods folder anymore as they no longer work or I found "better" mods for the same purpose)
 https://www.curseforge.com/minecraft/mc-mods/ash-another-simple-hud
 https://www.curseforge.com/minecraft/mc-mods/replanter
